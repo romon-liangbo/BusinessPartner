@@ -52,13 +52,13 @@
         <mxCell id="rtPav9sDxlK6I4rT2-NP-14" value="超级 类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="522" y="210" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rtPav9sDxlK6I4rT2-NP-17" value="多部门数据查看" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rtPav9sDxlK6I4rT2-NP-17" value="多部门数据操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="662" y="160" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rtPav9sDxlK6I4rT2-NP-19" value="本部门可查看" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="rtPav9sDxlK6I4rT2-NP-19" value="本部门可操作" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="662" y="110" width="88" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rtPav9sDxlK6I4rT2-NP-21" value="任何部门都可以查看" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rtPav9sDxlK6I4rT2-NP-21" value="任何部门都可以操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="662" y="210" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rtPav9sDxlK6I4rT2-NP-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rtPav9sDxlK6I4rT2-NP-23" target="rtPav9sDxlK6I4rT2-NP-34">
@@ -107,6 +107,9 @@
           <mxGeometry x="100" y="471" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rtPav9sDxlK6I4rT2-NP-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rtPav9sDxlK6I4rT2-NP-44" target="rtPav9sDxlK6I4rT2-NP-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rtPav9sDxlK6I4rT2-NP-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rtPav9sDxlK6I4rT2-NP-44" target="rtPav9sDxlK6I4rT2-NP-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rtPav9sDxlK6I4rT2-NP-44" value="角色" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
