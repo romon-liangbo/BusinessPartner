@@ -125,7 +125,7 @@
             <mxPoint x="352" y="127" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hFlQjNNTX_GSIiSx0fy3-1" value="设置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rtPav9sDxlK6I4rT2-NP-48">
+        <mxCell id="hFlQjNNTX_GSIiSx0fy3-1" value="setting" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rtPav9sDxlK6I4rT2-NP-48">
           <mxGeometry x="-0.2293" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -135,7 +135,7 @@
             <mxPoint x="261" y="197" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hFlQjNNTX_GSIiSx0fy3-2" value="设置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rtPav9sDxlK6I4rT2-NP-49">
+        <mxCell id="hFlQjNNTX_GSIiSx0fy3-2" value="setting" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rtPav9sDxlK6I4rT2-NP-49">
           <mxGeometry x="-0.0843" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -173,7 +173,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rtPav9sDxlK6I4rT2-NP-63" value="用户部门类型" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="-20" width="110" height="230" as="geometry">
+          <mxGeometry x="510" y="-20" width="110" height="240" as="geometry">
             <mxRectangle x="515" y="-20" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
